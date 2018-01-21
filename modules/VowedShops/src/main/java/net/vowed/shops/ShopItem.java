@@ -37,6 +37,7 @@ public class ShopItem implements MenuItem, OnChat, Serializable
     private BigDecimal dwarfPrice;
     private BigDecimal elfPrice;
     private BigDecimal humanPrice;
+    private int test;
 
     private ItemMeta oldMeta;
 

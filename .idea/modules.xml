@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Vowed.iml" filepath="$PROJECT_DIR$/Vowed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/VowedAPI/VowedAPI.iml" filepath="$PROJECT_DIR$/modules/VowedAPI/VowedAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/VowedBases/VowedBases.iml" filepath="$PROJECT_DIR$/modules/VowedBases/VowedBases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/VowedClans/VowedClans.iml" filepath="$PROJECT_DIR$/modules/VowedClans/VowedClans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/VowedCore/VowedCore.iml" filepath="$PROJECT_DIR$/modules/VowedCore/VowedCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/VowedItems/VowedItems.iml" filepath="$PROJECT_DIR$/modules/VowedItems/VowedItems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/VowedMonsters/VowedMonsters.iml" filepath="$PROJECT_DIR$/modules/VowedMonsters/VowedMonsters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/VowedPlayer/VowedPlayer.iml" filepath="$PROJECT_DIR$/modules/VowedPlayer/VowedPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/VowedPlugin/VowedPlugin.iml" filepath="$PROJECT_DIR$/modules/VowedPlugin/VowedPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/VowedShops/VowedShops.iml" filepath="$PROJECT_DIR$/modules/VowedShops/VowedShops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/VowedWIR/VowedWIR.iml" filepath="$PROJECT_DIR$/modules/VowedWIR/VowedWIR.iml" />
+    </modules>
+  </component>
+</project>

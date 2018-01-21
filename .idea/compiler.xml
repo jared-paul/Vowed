@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="modules" />
+        <module name="VowedAPI" />
+        <module name="VowedBases" />
+        <module name="VowedClans" />
+        <module name="VowedItems" />
+        <module name="VowedMonsters" />
+        <module name="VowedPlayer" />
+        <module name="VowedPlugin" />
+        <module name="VowedShops" />
+        <module name="VowedWIR" />
+      </profile>
+      <profile name="Annotation profile for VowedGroups" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="VowedGroups" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="Vowed" target="1.8" />
+      <module name="VowedAPI" target="1.8" />
+      <module name="VowedBases" target="1.8" />
+      <module name="VowedClans" target="1.8" />
+      <module name="VowedCore" target="1.8" />
+      <module name="VowedGroups" target="1.8" />
+      <module name="VowedItems" target="1.8" />
+      <module name="VowedMonsters" target="1.8" />
+      <module name="VowedPlayer" target="1.8" />
+      <module name="VowedPlugin" target="1.8" />
+      <module name="VowedShops" target="1.8" />
+      <module name="VowedWIR" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

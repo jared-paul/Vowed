@@ -1,0 +1,12 @@
+name: Vowed
+version: 1.0
+main: net.vowed.plugin.VowedPlugin
+description: VowedPlugin
+
+commands:
+  vowed:
+    description: vowed
+    usage: /vowed
+  imagemap:
+    description: fuck urself
+    usage: /imagemap

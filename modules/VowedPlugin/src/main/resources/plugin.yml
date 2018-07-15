@@ -8,5 +8,5 @@ commands:
     description: vowed
     usage: /vowed
   imagemap:
-    description: fuck urself
+    description: image map
     usage: /imagemap

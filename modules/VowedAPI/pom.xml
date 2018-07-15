@@ -30,7 +30,7 @@
             <artifactId>worldedit</artifactId>
             <version>6.1.7.3</version>
             <scope>system</scope>
-            <systemPath>C:/Users/JPaul/Desktop/javaprojects/Vowed/lib/worldedit-6.1.7.3.jar</systemPath>
+            <systemPath>C:/Users/Jared/IdeaProjects/vowed/lib/worldedit-bukkit-6.1.7.3.jar</systemPath>
         </dependency>
 
         <dependency>
@@ -38,7 +38,7 @@
             <artifactId>worldguard</artifactId>
             <version>6.2.1</version>
             <scope>system</scope>
-            <systemPath>C:/Users/JPaul/Desktop/javaprojects/Vowed/lib/worldguard-6.2.1.jar</systemPath>
+            <systemPath>C:/Users/Jared/IdeaProjects/vowed/lib/worldguard-6.2.1.jar</systemPath>
         </dependency>
 
         <dependency>
@@ -58,7 +58,7 @@
             <artifactId>EffectLib</artifactId>
             <version>1.0-SNAPSHOT</version>
             <scope>system</scope>
-            <systemPath>C:/Users/JPaul/Desktop/javaprojects/Vowed/lib/EffectLib-5.4.jar</systemPath>
+            <systemPath>C:/Users/Jared/IdeaProjects/vowed/lib/EffectLib-5.9.jar</systemPath>
         </dependency>
 
         <dependency>

@@ -33,8 +33,6 @@ public class MonsterRegistry implements IMonsterRegistry
         entityMonsterClasses.put(MonsterType.ZOMBIE, MonsterZombie.class);
         entityMonsterClasses.put(MonsterType.SKELETON, MonsterSkeleton.class);
         entityMonsterClasses.put(MonsterType.CREEPER, MonsterCreeper.class);
-
-
     }
 
     public void onDisable()
@@ -107,7 +105,6 @@ public class MonsterRegistry implements IMonsterRegistry
             e.printStackTrace();
         }
     }
-
 
     @SuppressWarnings("unchecked")
     private void registerEntityType(MonsterType monsterType)

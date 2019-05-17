@@ -2,6 +2,7 @@ package net.vowed.items.food;
 
 import com.google.common.collect.Lists;
 import net.vowed.api.items.Tier;
+import net.vowed.core.util.schematics.Paster;
 import org.bukkit.ChatColor;
 import org.bukkit.Material;
 
@@ -43,6 +44,7 @@ public enum FoodType
 
     Material material;
     short data;
+    Paster
     List<Tier> applicableTiers; //for chests/loot
     String name;
 

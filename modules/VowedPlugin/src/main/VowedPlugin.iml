@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/java" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="VowedMonsters" />
+    <orderEntry type="module" module-name="VowedBases" />
+    <orderEntry type="module" module-name="Vowed" />
+    <orderEntry type="module" module-name="VowedClans" />
+    <orderEntry type="module" module-name="VowedCore" />
+    <orderEntry type="module" module-name="VowedAPI" />
+    <orderEntry type="module" module-name="VowedItems" />
+    <orderEntry type="module" module-name="VowedWIR" />
+    <orderEntry type="module" module-name="VowedShops" />
+  </component>
+</module>

@@ -2,70 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dfe237e-2a38-4dcb-b721-9ca0c839c344" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_citizensnpcs_citizens_v1_8_R3_2_0_22_SNAPSHOT.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_trove4j_trove4j_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bstats_bstats_bukkit_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Vowed_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyleSettings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_netty_netty_3_2_8_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/database/main/DeleteQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/database/main/InsertQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/database/main/Query.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_citizensnpcs_citizens_2_0_22_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_citizensnpcs_citizens_2_0_22_SNAPSHOT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_citizensnpcs_citizens_main_2_0_22_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_citizensnpcs_citizens_main_2_0_22_SNAPSHOT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_citizensnpcs_citizens_v1_10_R1_2_0_22_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_citizensnpcs_citizens_v1_10_R1_2_0_22_SNAPSHOT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_citizensnpcs_citizens_v1_11_R1_2_0_22_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_citizensnpcs_citizens_v1_11_R1_2_0_22_SNAPSHOT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_citizensnpcs_citizens_v1_12_R1_2_0_22_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_citizensnpcs_citizens_v1_12_R1_2_0_22_SNAPSHOT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_citizensnpcs_citizensapi_2_0_22_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_citizensnpcs_citizensapi_2_0_22_SNAPSHOT.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Vowed.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Vowed.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/.idea/artifacts/ItemFrameAPI_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/.idea/copyright/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/.idea/libraries/Maven__com_sk89q_worldguard_worldguard_legacy_6_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/.idea/libraries/ProtocolLib.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/ItemFrameAPI.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/FrameManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/FramePicturePlugin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/command/FramePictureCommand.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/event/CreateFrameEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/event/RemoveFrameEvent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/listener/ChunkListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/listener/FrameListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/listener/FramePacketListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/render/ImageRenderer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/render/TextRenderer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/util/Cache.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/util/Config.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/util/FakeMapCanvas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/util/Frame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/util/Lang.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/util/PacketSender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/util/PictureDatabase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/util/Utils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/src/main/resources/plugin.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/ItemFrameAPI/target/classes/plugin.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/VowedAPI/VowedAPI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedAPI/VowedAPI.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/VowedAPI/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedAPI/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/database/ConnectionPoolManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/database/ConnectionPoolManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/database/SQLStorage.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/database/SQLStorage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/plugin/Vowed.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/plugin/Vowed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/VowedBases/VowedBases.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedBases/VowedBases.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/VowedClans/VowedClans.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedClans/VowedClans.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/commands/ClanCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/commands/ClanCommands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/members/ClanPlayerRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/members/ClanPlayerRegistry.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/VowedCore/VowedCore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedCore/VowedCore.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/VowedCore/src/main/java/net/vowed/core/util/schematics/Paster.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedCore/src/main/java/net/vowed/core/util/schematics/Paster.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/VowedItems/VowedItems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedItems/VowedItems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/VowedItems/src/main/java/net/vowed/items/armour/generator/ArmourGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedItems/src/main/java/net/vowed/items/armour/generator/ArmourGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/VowedItems/src/main/java/net/vowed/items/food/FoodType.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedItems/src/main/java/net/vowed/items/food/FoodType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/VowedMonsters/VowedMonsters.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedMonsters/VowedMonsters.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/VowedMonsters/src/main/java/net/vowed/monsters/MonsterRegistry.java" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedMonsters/src/main/java/net/vowed/monsters/MonsterRegistry.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/VowedPlayer/VowedPlayer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedPlayer/VowedPlayer.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/VowedPlugin/VowedPlugin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedPlugin/VowedPlugin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/VowedPlugin/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedPlugin/target/classes/plugin.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/VowedShops/VowedShops.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedShops/VowedShops.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/modules/VowedWIR/VowedWIR.iml" beforeDir="false" afterPath="$PROJECT_DIR$/modules/VowedWIR/VowedWIR.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
@@ -83,106 +47,118 @@
     <ignored path="$PROJECT_DIR$/modules/VowedItems/target/" />
     <ignored path="$PROJECT_DIR$/modules/VowedPlayer/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="ArmourCommands.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/VowedItems/src/main/java/net/vowed/items/armour/commands/ArmourCommands.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/bulletinboard/image/test/ImageMapCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="38" column="61" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="680">
+              <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ArmourMenuController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/VowedItems/src/main/java/net/vowed/items/menu/armour/ArmourMenuController.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/bulletinboard/image/test/PlacingCacheEntry.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-              <folding>
-                <element signature="e#534#535#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="WiR.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/VowedWIR/src/main/java/net/vowed/wir/WiR.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/bulletinboard/image/test/BuildTask.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="68">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RoomComponent.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/VowedWIR/src/main/java/net/vowed/wir/RoomComponent.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/bulletinboard/image/test/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2856">
-              <caret line="195" column="52" selection-start-line="195" selection-start-column="47" selection-end-line="195" selection-end-column="52" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="646">
+              <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/bulletinboard/BulletinBoard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="969">
-              <caret line="57" column="10" lean-forward="true" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+            <state relative-caret-position="119">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Log.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/logging/Log.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/bulletinboard/image/ImageMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="plugin.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/modules/VowedPlugin/src/main/resources/plugin.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="VowedPlugin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/VowedPlugin/src/main/java/net/vowed/plugin/VowedPlugin.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/bulletinboard/image/BoardImage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1394">
-              <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="61" selection-end-column="72" />
+            <state relative-caret-position="357">
+              <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Vowed.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/plugin/Vowed.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/bulletinboard/image/render/ImageMapRenderer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
+            <state relative-caret-position="119">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/bulletinboard/image/factory/ImageFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/VowedCore/src/main/java/net/vowed/core/util/reflection/ReflectionUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Vowed</find>
+      <find>delete</find>
+      <find>method</find>
+      <find>settin</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -192,10 +168,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/modules/VowedAPI/pom.xml" />
         <option value="$PROJECT_DIR$/modules/VowedMonsters/src/main/java/net/vowed/monsters/MonsterRegistry.java" />
         <option value="$PROJECT_DIR$/modules/VowedCore/pom.xml" />
+        <option value="$PROJECT_DIR$/modules/VowedPlugin/src/main/resources/plugin.yml" />
+        <option value="$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/plugin/Vowed.java" />
+        <option value="$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/database/ConnectionPoolManager.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/database/SQLStorage.java" />
+        <option value="$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/database/main/QueryUtil.java" />
+        <option value="$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/database/main/Query.java" />
+        <option value="$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/database/main/DeleteQuery.java" />
+        <option value="$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/database/main/InsertQuery.java" />
+        <option value="$PROJECT_DIR$/modules/VowedItems/src/main/java/net/vowed/items/armour/generator/ArmourGenerator.java" />
+        <option value="$PROJECT_DIR$/modules/VowedItems/src/main/java/net/vowed/items/food/FoodType.java" />
+        <option value="$PROJECT_DIR$/modules/VowedAPI/pom.xml" />
+        <option value="$PROJECT_DIR$/modules/VowedCore/src/main/java/net/vowed/core/util/schematics/Paster.java" />
+        <option value="$PROJECT_DIR$/modules/VowedPlayer/src/main/java/net/vowed/player/VowedPlayerRegistry.java" />
+        <option value="$PROJECT_DIR$/modules/VowedItems/src/main/java/net/vowed/items/Settings.java" />
       </list>
     </option>
   </component>
@@ -206,11 +195,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1750" />
-    <option name="height" value="1030" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="30" />
+    <option name="y" value="10" />
+    <option name="width" value="1120" />
+    <option name="height" value="660" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -218,9 +207,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -287,7 +273,64 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="logging" type="462c0819:PsiDirectoryNode" />
+              <item name="clans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
+              <item name="armour" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
@@ -299,6 +342,201 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="api" type="462c0819:PsiDirectoryNode" />
               <item name="plugin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="requests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="shops" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedAPI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+              <item name="wir" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedBases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedBases" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedBases" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedBases" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedBases" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedBases" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedClans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedClans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedClans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedClans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedClans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="clans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedClans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="clans" type="462c0819:PsiDirectoryNode" />
+              <item name="bulletinboard" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedClans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="clans" type="462c0819:PsiDirectoryNode" />
+              <item name="bulletinboard" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedClans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="clans" type="462c0819:PsiDirectoryNode" />
+              <item name="bulletinboard" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedClans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="clans" type="462c0819:PsiDirectoryNode" />
+              <item name="bulletinboard" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+              <item name="render" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedClans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="clans" type="462c0819:PsiDirectoryNode" />
+              <item name="bulletinboard" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedClans" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="clans" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
@@ -355,6 +593,322 @@
               <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
               <item name="vowed" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedCore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedCore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedCore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="schematics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedCore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="schematics" type="462c0819:PsiDirectoryNode" />
+              <item name="builder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedCore" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+              <item name="strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedItems" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedItems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedItems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedItems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedItems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedItems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
+              <item name="armour" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedItems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
+              <item name="armour" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedItems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
+              <item name="armour" type="462c0819:PsiDirectoryNode" />
+              <item name="event" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedItems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
+              <item name="armour" type="462c0819:PsiDirectoryNode" />
+              <item name="generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedItems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
+              <item name="armour" type="462c0819:PsiDirectoryNode" />
+              <item name="listeners" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedItems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedItems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
+              <item name="food" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedItems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
+              <item name="shield" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedItems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
+              <item name="weapon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedItems" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
+              <item name="weapon" type="462c0819:PsiDirectoryNode" />
+              <item name="listeners" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedMonsters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedMonsters" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedMonsters" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedMonsters" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedMonsters" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="monsters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedMonsters" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="monsters" type="462c0819:PsiDirectoryNode" />
+              <item name="ai" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedMonsters" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="monsters" type="462c0819:PsiDirectoryNode" />
+              <item name="types" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedPlayer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedPlayer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedPlayer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedPlayer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedPlayer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="player" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
               <item name="VowedPlugin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -400,20 +954,116 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedShops" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedShops" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedShops" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedShops" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedShops" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="shops" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedWIR" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedWIR" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedWIR" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedWIR" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedWIR" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wir" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vowed" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vowed" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="VowedWIR" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wir" type="462c0819:PsiDirectoryNode" />
+              <item name="generation" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jared\IdeaProjects\vowed\lib" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Jared\IdeaProjects\vowed\lib" />
     </key>
@@ -433,44 +1083,23 @@
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
+    <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
   </component>
   <component name="SvnConfiguration">
@@ -484,318 +1113,417 @@
       <option name="presentableId" value="Default" />
       <updated>1531615653296</updated>
     </task>
+    <task id="LOCAL-00001" summary="Changing to make a little more formal haha">
+      <created>1531620888773</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1531620888773</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="68" y="20" width="1400" height="824" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.4992785" weight="0.32914925" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5007215" side_tool="true" visible="true" weight="0.32914925" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963924" />
-      <window_info anchor="bottom" id="Inspection Results" sideWeight="0.4992785" weight="0.32914925" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32684565" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" sideWeight="0.4992785" weight="0.32914925" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50364584" side_tool="true" weight="0.5731874" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49635416" weight="0.44244984" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changing to make a little more formal haha" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changing to make a little more formal haha" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/modules/VowedPlayer/src/main/Vowed.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/listener/FramePacketListener.java">
+    <entry file="file://$PROJECT_DIR$/modules/VowedWIR/src/main/java/net/vowed/wir/generation/RoomUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/ItemFrameAPI/src/main/java/net/itemframe/api/FrameManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedBases/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-46" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedClans/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedCore/src/main/VowedCore.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedMonsters/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedPlayer/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedPlugin/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-862" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedShops/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/items/IItemFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/items/weapon/IWeaponGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedItems/src/main/java/net/vowed/items/Settings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedItems/src/main/java/net/vowed/items/weapon/generator/WeaponGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedAPI/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="63" column="20" selection-start-line="63" selection-start-column="20" selection-end-line="63" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedMonsters/src/main/java/net/vowed/monsters/MonsterRegistry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="773">
-          <caret line="108" column="34" lean-forward="true" selection-start-line="108" selection-start-column="34" selection-end-line="108" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/settings/bases/BaseSetting.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="12" column="86" lean-forward="true" selection-start-line="12" selection-start-column="86" selection-end-line="12" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedBases/src/main/java/net/vowed/bases/Base.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-12">
-          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedBases/src/main/java/net/vowed/bases/VowedBases.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedBases/src/main/java/net/vowed/bases/commands/BaseCommands.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedBases/src/main/java/net/vowed/bases/states/BeginningState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedBases/src/main/java/net/vowed/bases/states/UpgradeState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedBases/src/main/java/net/vowed/bases/states/UpgradeMachine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/shops/IChestShop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="-1683">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/VowedWIR/src/main/java/net/vowed/wir/WiRCommands.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
+        <state relative-caret-position="119">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedWIR/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedCore/src/main/java/net/vowed/core/items/generator/Generator.java">
+    <entry file="file://$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/wir/ComponentType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedItems/pom.xml">
+    <entry file="jar://$PROJECT_DIR$/lib/worldedit-bukkit-6.1.7.3.jar!/com/sk89q/worldedit/Vector.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        <state relative-caret-position="-3519">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedCore/src/main/java/net/vowed/core/items/util/ItemUtil.java">
+    <entry file="jar://$PROJECT_DIR$/lib/worldedit-bukkit-6.1.7.3.jar!/com/sk89q/worldedit/CuboidClipboard.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="285">
+          <caret line="99" column="44" selection-start-line="99" selection-start-column="44" selection-end-line="99" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/worldedit-bukkit-6.1.7.3.jar!/com/sk89q/worldedit/blocks/BaseBlock.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="127" column="38" selection-start-line="127" selection-start-column="38" selection-end-line="127" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/worldedit-bukkit-6.1.7.3.jar!/com/sk89q/worldedit/blocks/BlockData.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
           <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedCore/src/main/java/net/vowed/core/money/currency/CurrencyAbstract.java">
+    <entry file="file://$PROJECT_DIR$/modules/VowedItems/src/main/java/net/vowed/items/food/FoodType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        <state relative-caret-position="680">
+          <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/VowedCore/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
+        <state relative-caret-position="340">
           <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedItems/src/main/java/net/vowed/items/armour/commands/ArmourCommands.java">
+    <entry file="file://$PROJECT_DIR$/modules/VowedAPI/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="38" column="61" selection-start-line="38" selection-start-column="61" selection-end-line="38" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="544">
+          <caret line="32" column="78" selection-start-line="32" selection-start-column="78" selection-end-line="32" selection-end-column="78" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedItems/src/main/java/net/vowed/items/menu/armour/ArmourMenuController.java">
+    <entry file="jar://$PROJECT_DIR$/lib/worldedit-bukkit.jar!/com/sk89q/worldedit/util/Direction.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-          <folding>
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedWIR/src/main/java/net/vowed/wir/WiR.java">
+    <entry file="jar://$PROJECT_DIR$/lib/worldedit-bukkit.jar!/com/sk89q/worldedit/world/block/BlockType.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="476">
+          <caret line="49" column="18" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedWIR/src/main/java/net/vowed/wir/RoomComponent.java">
+    <entry file="jar://$PROJECT_DIR$/lib/worldedit-bukkit.jar!/com/sk89q/worldedit/registry/state/DirectionalProperty.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2856">
-          <caret line="195" column="52" selection-start-line="195" selection-start-column="47" selection-end-line="195" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://$PROJECT_DIR$/lib/worldedit-bukkit.jar!/com/sk89q/worldedit/bukkit/adapter/impl/Spigot_v1_13_R1.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="10" lean-forward="true" selection-start-line="57" selection-start-column="10" selection-end-line="57" selection-end-column="10" />
+        <state relative-caret-position="2397">
+          <caret line="242" column="27" selection-start-line="242" selection-start-column="27" selection-end-line="242" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/logging/Log.java">
+    <entry file="jar://$PROJECT_DIR$/lib/worldedit-bukkit.jar!/com/sk89q/worldedit/regions/CuboidRegion.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedCore/src/main/java/net/vowed/core/util/schematics/Paster.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/plugin/Vowed.java">
+    <entry file="file://$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/database/SQLStorage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
+        <state relative-caret-position="4505">
+          <caret line="278" column="26" selection-start-line="278" selection-start-column="26" selection-end-line="278" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedCore/src/main/java/net/vowed/core/hook/WorldGuardProvider.java">
+    <entry file="file://$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/player/AbstractVowedPlayerRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedPlayer/src/main/java/net/vowed/player/VowedPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedPlayer/src/main/java/net/vowed/player/VowedPlayerRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedWIR/src/main/java/net/vowed/wir/generation/IntersectingRoomLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedWIR/src/main/java/net/vowed/wir/generation/DecorationLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="102" column="43" selection-start-line="102" selection-start-column="43" selection-end-line="102" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spigot-1.12.2.jar!/net/minecraft/server/v1_12_R1/EntityInsentient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="36" column="28" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spigot-1.12.2.jar!/net/minecraft/server/v1_12_R1/PathfinderGoalSelector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/spigot-1.12.2.jar!/net/minecraft/server/v1_12_R1/EntityMonster.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedCore/src/main/java/net/vowed/core/items/config/StatStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedItems/src/main/java/net/vowed/items/Settings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="40" column="69" selection-start-line="40" selection-start-column="69" selection-end-line="40" selection-end-column="69" />
           <folding>
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/VowedPlugin/src/main/java/net/vowed/plugin/VowedPlugin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1394">
-          <caret line="60" column="1" lean-forward="true" selection-start-line="60" selection-start-column="1" selection-end-line="61" selection-end-column="72" />
+        <state relative-caret-position="1904">
+          <caret line="169" column="16" selection-start-line="169" selection-start-column="16" selection-end-line="169" selection-end-column="16" />
+          <folding>
+            <element signature="e#5986#5987#0" expanded="true" />
+            <element signature="e#6020#6021#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modules/VowedPlugin/src/main/resources/plugin.yml">
+    <entry file="file://$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/settings/bases/BaseSettings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/settings/bases/BaseSetting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="38" column="33" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+          <folding>
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#837#838#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedCore/src/main/java/net/vowed/core/items/config/TripleStatStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="27" selection-start-column="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedBases/src/main/resources/basesdependencies.yml">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/commands/ClanCommands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="82" column="62" selection-start-line="82" selection-start-column="62" selection-end-line="82" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/wir/IMapComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/wir/Tuple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedAPI/src/main/java/net/vowed/api/VowedAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedBases/src/main/java/net/vowed/bases/BaseRegistry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedBases/src/main/java/net/vowed/bases/Base.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedItems/src/main/java/net/vowed/items/weapon/generator/WeaponModifiers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="36" column="122" selection-start-line="36" selection-start-column="122" selection-end-line="36" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedItems/src/main/java/net/vowed/items/VowedItems.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedMonsters/src/main/java/net/vowed/monsters/types/AbstractMonster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3723">
+          <caret line="271" column="49" selection-start-line="271" selection-start-column="49" selection-end-line="271" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/bulletinboard/image/test/ImageMapCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/bulletinboard/image/test/PlacingCacheEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/bulletinboard/image/test/BuildTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/bulletinboard/image/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="61" column="16" selection-start-line="61" selection-start-column="16" selection-end-line="61" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/bulletinboard/BulletinBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/bulletinboard/image/ImageMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/bulletinboard/image/render/ImageMapRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/bulletinboard/image/factory/ImageFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedCore/src/main/java/net/vowed/core/util/reflection/ReflectionUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="69" selection-start-line="9" selection-start-column="69" selection-end-line="9" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/VowedClans/src/main/java/net/vowed/clans/bulletinboard/image/BoardImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="52" column="13" selection-start-line="52" selection-start-column="13" selection-end-line="52" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
@@ -803,10 +1531,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>vowed:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -849,7 +1579,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ItemFrameAPI</last-edited>
+          <last-edited>Vowed</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

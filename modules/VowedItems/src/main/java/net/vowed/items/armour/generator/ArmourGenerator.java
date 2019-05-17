@@ -70,12 +70,12 @@ public class ArmourGenerator extends Generator<ItemStack> implements IArmourGene
     }
 
     @Override
-    public List<ItemStack> createEquipment(Rarity rarity, Tier tier)
+    public List<ItemStack> createEquipment(@Nullable Rarity rarity, @Nullable Tier tier)
     {
-        ItemStack boots = createArmour(null, tier, ArmourType.BOOTS);
-        ItemStack leggings = createArmour(null, tier, ArmourType.LEGGINGS);
-        ItemStack chestplate = createArmour(null, tier, ArmourType.CHESTPLATE);
-        ItemStack helmet = createArmour(null, tier, ArmourType.HELMET);
+        ItemStack boots = createArmour(rarity, tier, ArmourType.BOOTS);
+        ItemStack leggings = createArmour(rarity, tier, ArmourType.LEGGINGS);
+        ItemStack chestplate = createArmour(rarity, tier, ArmourType.CHESTPLATE);
+        ItemStack helmet = createArmour(rarity, tier, ArmourType.HELMET);
 
         return Lists.newArrayList(boots, leggings, chestplate, helmet);
     }

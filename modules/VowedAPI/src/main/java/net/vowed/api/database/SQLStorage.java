@@ -67,14 +67,6 @@ public class SQLStorage
                             "ENGINE = InnoDB;"
             );
 
-            Vowed.LOG.debug("CREATE TABLE IF NOT EXISTS " +
-                    "members" +
-                    "(member_uuid VARCHAR(36) PRIMARY KEY, " +
-                    "clan_uuid VARCHAR(36), " +
-                    "rank (VARCHAR(16), " +
-                    "constraint fk_clan_members FOREIGN KEY(clan_uuid) references clans(clan_uuid) ON UPDATE CASCADE ON DELETE CASCADE) " +
-                    "ENGINE = InnoDB;");
-
             membersTable = connection.prepareStatement(
                     "CREATE TABLE IF NOT EXISTS " +
                             "members" +
@@ -82,8 +74,7 @@ public class SQLStorage
                             "clan_uuid VARCHAR(36), " +
                             "rank VARCHAR(16), " +
                             "constraint fk_clan_members FOREIGN KEY(clan_uuid) references clans(clan_uuid) ON UPDATE CASCADE ON DELETE CASCADE) " +
-                            "ENGINE = InnoDB;"
-            );
+                            "ENGINE = InnoDB;");
 
             bulletinBoardTable = connection.prepareStatement(
                     "CREATE TABLE IF NOT EXISTS " +
@@ -209,8 +200,8 @@ public class SQLStorage
             company_shop_data.executeUpdate();
             */
             clanTable.executeUpdate();
-            membersTable.executeUpdate();
             bulletinBoardTable.executeUpdate();
+            membersTable.executeUpdate();
             bulletinBoardMessagesTable.executeUpdate();
         } catch (SQLException e)
         {

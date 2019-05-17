@@ -12,7 +12,7 @@
     <orderEntry type="module-library">
       <library name="Maven: com.sk89q.worldedit:worldedit:6.1.7.3">
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../lib/worldedit-bukkit-6.1.7.3.jar!/" />
+          <root url="jar://C:/Users/Jared/IdeaProjects/vowed/lib/worldedit-bukkit.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -21,7 +21,7 @@
     <orderEntry type="module-library">
       <library name="Maven: com.sk89q.worldguard:worldguard:6.2.1">
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../lib/worldguard-6.2.1.jar!/" />
+          <root url="jar://C:/Users/Jared/IdeaProjects/vowed/lib/worldguard-6.2.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -39,7 +39,7 @@
     <orderEntry type="module-library">
       <library name="Maven: EffectLib:EffectLib:1.0-SNAPSHOT">
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../lib/EffectLib-5.9.jar!/" />
+          <root url="jar://C:/Users/Jared/IdeaProjects/vowed/lib/EffectLib-5.9.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -50,7 +50,7 @@
     <orderEntry type="module-library">
       <library name="Maven: HYD:MenuAPI:1.0-SNAPSHOT">
         <CLASSES>
-          <root url="jar://C:/Users/JPaul/Desktop/javaprojects/MenuAPI/out/MenuAPI.jar!/" />
+          <root url="jar://C:/Users/Jared/IdeaProjects/vowed/lib/MenuAPI.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -59,7 +59,7 @@
     <orderEntry type="module-library">
       <library name="Maven: org.spigotmc:spigot:1.12.2">
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../lib/spigot-1.12.2.jar!/" />
+          <root url="jar://C:/Users/Jared/IdeaProjects/vowed/lib/spigot-1.12.2.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -69,6 +69,7 @@
     <orderEntry type="library" name="Maven: com.google.guava:guava:15.0" level="project" />
     <orderEntry type="library" name="Maven: org.javassist:javassist:3.19.0-GA" level="project" />
     <orderEntry type="library" name="Maven: com.google.code.findbugs:annotations:2.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.jboss.netty:netty:3.2.8.Final" level="project" />
     <orderEntry type="library" name="Maven: com.google.inject:guice:4.0" level="project" />
     <orderEntry type="library" name="Maven: javax.inject:javax.inject:1" level="project" />
     <orderEntry type="library" name="Maven: aopalliance:aopalliance:1.0" level="project" />

@@ -39,7 +39,7 @@ public class ConnectionPoolManager
         port = "3306";
         database = "vowed";
         username = "root";
-        password = "";
+        password = "YessamLor8";
         maximumConnections = 10;
         connectionTimeout = 6000;
         leakDetection = 100;

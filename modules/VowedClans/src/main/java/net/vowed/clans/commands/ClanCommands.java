@@ -80,7 +80,7 @@ public class ClanCommands implements CommandClass
     public void accept(CommandContext args, CommandSender sender)
     {
         Player playerSender = (Player) sender;
-        IClan clan = Vowed.getClanHandler().getClan(args.getString(0));
+        IClan clan = Vowed.getClanRegistry().getClan(args.getString(0));
 
         IVowedPlayer vowedRequested = Vowed.getPlayerRegistry().getVowedPlayer(playerSender);
 
@@ -111,7 +111,7 @@ public class ClanCommands implements CommandClass
     )
     public void createClan(CommandContext args, CommandSender sender)
     {
-        IClan clan = Vowed.getClanHandler().createClan(args.getString(0), Vowed.getClanPlayerRegistry().createClanLeader(((Player) sender).getUniqueId()));
+        IClan clan = Vowed.getClanRegistry().createClan(args.getString(0), Vowed.getClanPlayerRegistry().createClanLeader(((Player) sender).getUniqueId()));
 
         sender.sendMessage(clan.getName());
     }
@@ -186,7 +186,7 @@ public class ClanCommands implements CommandClass
 
         IVowedPlayer vowedPlayer = Vowed.getPlayerRegistry().getVowedPlayer(player);
         IClan clan = vowedPlayer.getClan();
-        IClan allyToADD = Vowed.getClanHandler().getClan(args.getString(0));
+        IClan allyToADD = Vowed.getClanRegistry().getClan(args.getString(0));
 
         if (Preconditions.checkNotNull(clan, player, StringUtil.handleError("Sorry, you do not have a clan!", "do not")))
             return;
@@ -228,7 +228,7 @@ public class ClanCommands implements CommandClass
 
         IVowedPlayer vowedPlayer = Vowed.getPlayerRegistry().getVowedPlayer(player);
         IClan clan = vowedPlayer.getClan();
-        IClan allyToREMOVE = Vowed.getClanHandler().getClan(args.getString(0));
+        IClan allyToREMOVE = Vowed.getClanRegistry().getClan(args.getString(0));
 
         if (Preconditions.checkNotNull(clan, player, StringUtil.handleError("Sorry, you do not have a clan!", "do not")))
             return;
@@ -270,7 +270,7 @@ public class ClanCommands implements CommandClass
 
         IVowedPlayer vowedPlayer = Vowed.getPlayerRegistry().getVowedPlayer(player);
         IClan clan = vowedPlayer.getClan();
-        IClan enemyToADD = Vowed.getClanHandler().getClan(args.getString(0));
+        IClan enemyToADD = Vowed.getClanRegistry().getClan(args.getString(0));
 
         if (Preconditions.checkNotNull(clan, player, StringUtil.handleError("Sorry, you do not have a clan!", "do not")))
             return;
@@ -312,7 +312,7 @@ public class ClanCommands implements CommandClass
 
         IVowedPlayer vowedPlayer = Vowed.getPlayerRegistry().getVowedPlayer(player);
         IClan clan = vowedPlayer.getClan();
-        IClan enemyToREMOVE = Vowed.getClanHandler().getClan(args.getString(0));
+        IClan enemyToREMOVE = Vowed.getClanRegistry().getClan(args.getString(0));
 
         if (Preconditions.checkNotNull(clan, player, StringUtil.handleError("Sorry, you do not have a clan!", "do not")))
             return;

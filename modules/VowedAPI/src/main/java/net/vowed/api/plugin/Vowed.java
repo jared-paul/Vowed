@@ -35,7 +35,7 @@ public class Vowed
         return PLUGIN;
     }
 
-    public static IClanRegistry getClanHandler()
+    public static IClanRegistry getClanRegistry()
     {
         return PLUGIN.getClanRegistry();
     }
